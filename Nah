@@ -1,0 +1,25 @@
+-- We Know 
+
+print("! ! !")
+print("! ! !")
+print("+ + +")
+print("+ + +")
+print("= = =")
+print("- - -")
+print("! ! !")
+print("! ! !")
+print("+ + +")
+print("+ + +")
+
+-- SETTINGS
+bounty = 0  -- bounty amount
+codes = {
+    "BUBU",
+    "MUSIC",
+    "KINGPIN"
+}
+fps = 60  -- FPS
+targetPlayer = "UserName" -- TargetPlayer
+USING_FREE_VERSION_ZENN = "https://discord.gg/wakapoop" -- do not delete
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/niteboiFZK3/WEPX4/refs/heads/main/zennfree", true))()
